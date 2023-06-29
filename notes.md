@@ -314,8 +314,8 @@ Google: entity componenet system design pattern
 
 example projects:
 - rougelike rustbook ( bracketproduction)
-- os.phill-opp.com
-- redoc-os.org
+- https://os.phil-opp.com/
+- redox-os.org
 - raytracing.github.io
 - pbr-book.org academy award winning book on rendering
 - chip8 emulator : devernay.free.fr/hacks/chip8/C8TECH10.HTM
