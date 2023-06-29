@@ -299,3 +299,23 @@ Google: entity componenet system design pattern
 ![Alt text](image-4.png)
 
 ## Options and Results
+
+
+- usefull crates:
+- rayon for parallelism
+- crossbeam for multi threading and message passing
+- parking_lot - concurrency primities
+- indicatif - progress bars, cli
+- reqwest - http client
+- serde - (de)serialization
+- tonic - grpc microservices
+- nalgebra - linear algebra
+- cgmath - linear algebra
+
+example projects:
+- rougelike rustbook ( bracketproduction)
+- os.phill-opp.com
+- redoc-os.org
+- raytracing.github.io
+- pbr-book.org academy award winning book on rendering
+- chip8 emulator : devernay.free.fr/hacks/chip8/C8TECH10.HTM
